@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizePropertyGridCategories", "Reporting-Customize-the-Property-Grid-in-the-Wpf-Report-Designer\CustomizePropertyGridCategories.csproj", "{A8AEF32E-C518-4056-AC18-1FE6DBBE8A91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizePropertyGridCategories", "CS\Reporting-Customize-the-Property-Grid-in-the-Wpf-Report-Designer\CustomizePropertyGridCategories.csproj", "{A8AEF32E-C518-4056-AC18-1FE6DBBE8A91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,11 +15,11 @@ Global
 		{A8AEF32E-C518-4056-AC18-1FE6DBBE8A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8AEF32E-C518-4056-AC18-1FE6DBBE8A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8AEF32E-C518-4056-AC18-1FE6DBBE8A91}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
+			EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {321441ED-036F-434B-9B9F-7AD5C15F290E}
+		SolutionGuid = {5260823C-C2B9-4F14-9AB3-2A14FE3C92DA}
 	EndGlobalSection
 EndGlobal
